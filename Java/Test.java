@@ -3,7 +3,6 @@ class Test {
         for (int i = 0; i < d; i++)
             leftRotatebyOne(arr, n);
     }
-// This is my new branch 
     void leftRotatebyOne(int arr[], int n) {
         int i, temp;
         temp = arr[0];
